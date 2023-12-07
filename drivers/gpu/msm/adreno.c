@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-// SPDX-License-Identifier: GPL-2.0-only
-/*
- * Copyright (c) 2002,2007-2021, The Linux Foundation. All rights reserved.
- * Copyright (c) 2022 Qualcomm Innovation Center, Inc. All rights reserved.
-=======
 /* Copyright (c) 2002,2007-2018, The Linux Foundation. All rights reserved.
  *
  * This program is free software; you can redistribute it and/or modify
@@ -15,7 +9,6 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
->>>>>>> baa12ba23bd2 (Revert "msm: kgsl: Mark the scratch buffer as privileged")
  */
 #include <linux/delay.h>
 #include <linux/input.h>
